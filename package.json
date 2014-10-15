@@ -1,0 +1,31 @@
+{
+  "name": "bs4vccw_s",
+  "version": "0.0.1",
+  "description": "Browser-Sync for VCCW Underscores Theme",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masayuki Maekawa",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^1.2.1",
+    "gulp": "^3.8.6",
+    "gulp-changed": "^1.0.0",
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-ruby-sass": "^0.7.1"
+  },
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "browser-sync": "^1.5.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maepon/bs4vccw_s.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maepon/bs4vccw_s/issues"
+  },
+  "homepage": "https://github.com/maepon/bs4vccw_s"
+}
