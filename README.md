@@ -16,10 +16,10 @@ based on [gaspanik/bs4vccw](https://github.com/gaspanik/bs4vccw)
 
 > var paths = {  
 >   "vhost": "wordpress.local",  
->   "themes": "../www/wordpress/wp-content/themes/_s/\*\*"  
->  "sassDir": "../www/wordpress/wp-content/themes/_s/\*\*/*.scss",
->  "sass": "../www/wordpress/wp-content/themes/_s/sass/style.scss",
->  "style": "../www/wordpress/wp-content/themes/_s/"
+>   "themes": "../www/wordpress/wp-content/themes/_s/\*\*",  
+>  "sassDir": "../www/wordpress/wp-content/themes/_s/\*\*/*.scss",  
+>  "sass": "../www/wordpress/wp-content/themes/_s/sass/style.scss",  
+>  "style": "../www/wordpress/wp-content/themes/_s/"  
 > }
 
 
