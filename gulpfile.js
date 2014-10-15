@@ -23,7 +23,6 @@ gulp.task('bs-reload', function() {
 
 gulp.task('styles', function() {
   return gulp.src([paths.sass])
-    // .pipe($.changed(paths.style, {extension: '.css'}))
     .pipe($.rubySass({
       style: 'nested',
       precision: 10
