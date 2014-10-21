@@ -1,4 +1,5 @@
 ## Browser-Sync for VCCW Underscores Theme
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/maepon/bs4vccw_s?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Browser-Sync Setting for VCCW with compiling Underscores Theme's sass.
 
